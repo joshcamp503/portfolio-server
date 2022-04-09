@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-server",
+  "version": "1.0.0",
+  "description": "server whose initial purpose is emailing info from contact form submissions from portfolio website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshcamp503/portfolio-server.git"
+  },
+  "author": "Josh Campanella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshcamp503/portfolio-server/issues"
+  },
+  "homepage": "https://github.com/joshcamp503/portfolio-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemailer": "^6.7.3"
+  }
+}
