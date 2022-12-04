@@ -19,8 +19,8 @@ const contactEmail = nodemailer.createTransport({
     // this is a throwaway email account and google 
     // app password that wont work for a regular sign-in
     // and is not connected to any of my other google accounts
-    user: "contactjoshcamp@gmail.com",
-    pass: "dvuvcbswietfqfmi",
+    user: "joshcampdev@gmail.com",
+    pass: "sqicukpsqohoacme",
   },
 });
 
